@@ -11,3 +11,10 @@ var dog = {
   isAGoodBoy: true,
   favoriteFoods: ['chicken', 'beef', 'rice']
 }
+
+var custumer = {
+  name: "Tom",
+  yearsAsCustumer: 12,
+  isConsistentinSpending: true,
+  favoriteItems: ['hat, 'gloves', 'suit']
+}
